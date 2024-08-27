@@ -1,6 +1,6 @@
 import random
 
-a1 = input('Choose an adjective: ')
+a1 = input('Choose a good adjective: ')
 
 a2 = input('Choose another adjective: ')
 
